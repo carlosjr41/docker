@@ -2,45 +2,6 @@
 <!-- SUBTITLE: Manual para a utilização do Docker -->
 
 
-# Download
-1. Ir ao site: https://docs.docker.com/docker-for-windows/install/ e baixar o instalador do Docker.
-	
-	![1 1](/uploads/docker/1-1.png "1 1")
-
-# Instalação
-1. Início da Instalação Docker para Windows após clicar no instalador.
-
-	![001](/uploads/docker/001.png "001")
-	
-2. Configuração (não marcar as opções nesta etapa, apenas OK na parte inferior da tela).
-
-	![002](/uploads/docker/002.png "002")
-	
-3. Instalação dos arquivos. 
-
-	![003](/uploads/docker/003.png "003")
-	
-4. Instalação realizada com sucesso (clicar no Close and Log out).
-
-  ![004](/uploads/docker/004.png "004")
-	
-5. Clicar no ícone do Docker em "Mostrar Ícones Ocultos" na barra de Tarefas.
-
-	![005](/uploads/docker/005.png "005")
-	
-6. Clicar em OK para reinicar o computado para completar a instalação.
-
-	![006](/uploads/docker/006.png "006")
-	
-7. Tela de login.
-
-	![007](/uploads/docker/007.png "007")
-	
-8. Vericando a instalação através do Prompt de Comando.
-
-    ![008](/uploads/docker/008.png "008")
-
-
 # Lista de comandos
 
 | Comando                               | Descrição                                                                                                                                                                                                | |
