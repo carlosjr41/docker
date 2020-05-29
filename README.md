@@ -30,4 +30,5 @@
 |  _docker-compose build_                                                                                                             |   Executa os steps do docker compose   ||
 |  _docker-compose up_                                                                                                                  |  Sobe os serviços   ||
 |  _docker-compose down_                                                                                                            |   Finaliza os serviços   ||
+|  _docker rmi $(docker images -f "dangling=true" -q)_                                                                                                            |   Remove Imagens Descartaveis   ||
 
